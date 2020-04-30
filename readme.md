@@ -7,3 +7,6 @@ Multithreading is a system in which many threads are created from a process thro
 
 #### COMPARISION TABLE:
 ![Comparision Table](https://image.slidesharecdn.com/chap221-141222203658-conversion-gate02/95/chap2-2-1-8-638.jpg?cb=1419302278)
+
+# CONCLUSION:
+Multitasking is similar to multiprogramming whereas, Multithreading is thread-based multitasking. Multithreading is is less costlier than multitaskings as threads are easy to create then a process.
